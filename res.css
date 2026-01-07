@@ -34,6 +34,7 @@ a {
     display: flex;
     background-color: #000;
     justify-content: space-between;
+    position: sticky;
 }
 
 
